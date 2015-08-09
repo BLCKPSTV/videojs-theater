@@ -1,0 +1,20 @@
+{
+  "name": "videojs-theater",
+  "version": "0.0.1",
+  "homepage": "git@github.com:putdotio/videojs-theater.git",
+  "author": {
+    "name": "Tolga Akyuz",
+    "email": "tolga@put.io"
+  },
+  "description": "Videojs plugin for changing view size",
+  "main": [
+      "lib/videojs-theater.js",
+      "lib/videojs-theater.css"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ]
+}

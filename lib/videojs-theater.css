@@ -24,3 +24,13 @@
   content: "\e00b";
   font-family: "VideoJS" !important;
 }
+
+.vjs-default-skin .vjs-fullscreen-control:before {
+  font-family: "theater-fullscreen" !important;
+  content: "\e805" !important;
+}
+/* Switch to the exit icon when the player is in fullscreen */
+.vjs-default-skin.vjs-fullscreen .vjs-fullscreen-control:before {
+  font-family: "theater-fullscreen" !important;
+  content: "\e806" !important;
+}

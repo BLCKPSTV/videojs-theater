@@ -1,6 +1,6 @@
 {
   "name": "videojs-theater",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Tolga Akyüz",
   "description": "Theater mode for VideoJS",
   "license": "MIT",
